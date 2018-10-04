@@ -1,4 +1,4 @@
-package CodeWars;
+package CodeWars.six;
 
 public class BitCounting {
     private static int countBits(int n){

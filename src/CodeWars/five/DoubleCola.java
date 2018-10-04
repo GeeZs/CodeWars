@@ -1,4 +1,4 @@
-package CodeWars;
+package CodeWars.five;
 
 public class DoubleCola {
     private static String WhoIsNext(String[] names, int n){

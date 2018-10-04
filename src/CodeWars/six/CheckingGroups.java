@@ -1,8 +1,8 @@
-package CodeWars;
+package CodeWars.six;
 
 import java.util.LinkedList;
 
-public class Groups {
+public class CheckingGroups {
     private static boolean groupCheck(String s){
         if (s.isEmpty()){ return true;}
         if (s.length()%2 != 0){ return false;}

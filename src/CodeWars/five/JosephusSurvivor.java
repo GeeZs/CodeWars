@@ -1,4 +1,4 @@
-package CodeWars;
+package CodeWars.five;
 
 public class JosephusSurvivor {
     private static int josephusSurvivor(final int n, final int k) {

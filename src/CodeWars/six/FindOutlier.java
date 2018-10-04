@@ -1,4 +1,4 @@
-package CodeWars;
+package CodeWars.six;
 
 public class FindOutlier {
     private static int find(int[] integers){

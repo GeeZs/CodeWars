@@ -1,4 +1,4 @@
-package CodeWars;
+package CodeWars.eight;
 
 import java.util.Objects;
 

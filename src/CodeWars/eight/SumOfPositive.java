@@ -1,6 +1,6 @@
-package CodeWars;
+package CodeWars.eight;
 
-public class Positive {
+public class SumOfPositive {
     public static int sum(int[] arr){
         int res = 0;
         for (int anArr : arr) {

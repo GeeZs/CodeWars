@@ -1,6 +1,6 @@
-package CodeWars;
+package CodeWars.seven;
 
-public class JadenCase {
+public class JadenCasingStrings {
     private String toJadenCase(String phrase) {
 
         if (phrase == null || phrase.equals("")){
@@ -19,6 +19,6 @@ public class JadenCase {
     }
 
     public static void main(String[] args) {
-        System.out.println(new JadenCase().toJadenCase("most trees are blue"));
+        System.out.println(new JadenCasingStrings().toJadenCase("most trees are blue"));
     }
 }

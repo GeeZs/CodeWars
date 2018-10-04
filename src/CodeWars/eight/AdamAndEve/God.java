@@ -1,4 +1,4 @@
-package CodeWars.AdamAndEve;
+package CodeWars.eight.AdamAndEve;
 
 
 

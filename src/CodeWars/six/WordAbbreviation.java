@@ -1,4 +1,4 @@
-package CodeWars;
+package CodeWars.six;
 //Word a10n (abbreviation)
 
 public class WordAbbreviation {

@@ -1,4 +1,4 @@
-package CodeWars;
+package CodeWars.seven;
 
 public class GetTheMiddleChar {
     private static String getMiddle(String word){

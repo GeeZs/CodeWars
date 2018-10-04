@@ -17,7 +17,7 @@ public class Solution {
         Set<Integer> mySet = new HashSet<>(arr);
         Map<Integer, List<Integer>> myMap = new HashMap<>();
 
-        mySet = mySet.stream().sorted(Comparator.comparing(Integer::valueOf)).collect(Collectors.toSet());
+
         mySet.forEach(System.out::print);
 
         System.out.println();
@@ -42,6 +42,7 @@ public class Solution {
         }
 
         tmp.forEach(System.out::print);
+        System.out.println();
     }
 
     public static void printArr(List<Integer> arr){

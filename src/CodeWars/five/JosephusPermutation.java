@@ -1,4 +1,4 @@
-package CodeWars;
+package CodeWars.five;
 
 import java.util.*;
 
